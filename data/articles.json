@@ -103,6 +103,46 @@
       "comments": [],
       "reviewedAt": 1789277704507,
       "rejectReason": "内容需要补充或调整，请修改后重新提交。"
+    },
+    {
+      "id": "amtzi9dqu08kt0",
+      "title": "通用投稿公式、合规与事例（以后所有乐子都可以这么写）",
+      "summary": "通用投稿万能公式（以后所有乐子都可以这么写）",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "通用投稿公式"
+        },
+        {
+          "type": "paragraph",
+          "text": "\n事件背景（模糊化）+ 客观经过（不带情绪骂人）+ 搞笑亮点（只讲反差/迷惑行为）+ 无任何人身评价\n绝对禁止：不要出现“某某人”“我们班谁”“这个同学太蠢”“家长离谱”等主观攻击、具体指代语句。"
+        },
+        {
+          "type": "heading",
+          "text": "合规\n"
+        },
+        {
+          "type": "paragraph",
+          "text": "无具体人物指向：无姓名、无班级、无学校、无地域、无照片、无任何可定位个人信息，完全匿名化叙事\n无辱骂、无贬低、无网暴：不嘲讽、不攻击学生和家长，不评判人品，只客观陈述搞笑事件本身\n无隐私泄露：所有私人场景信息全部模糊处理\n纯乐子分享：用于趣味观察、青春期迷惑行为盘点，无恶意传播、无抹黑引流"
+        },
+        {
+          "type": "heading",
+          "text": "事例"
+        },
+        {
+          "type": "paragraph",
+          "text": "网上流传一件非常啼笑皆非的家庭教育趣事，属于典型的“当代青春迷惑行为”，整体情节轻松搞笑，无恶意、无负面人身评价，仅作为生活乐事分享。\n有一名处于青春期的学生，在假期期间因为日常玩手机时长问题和家人产生矛盾。该学生平日居家休闲时，每日手机使用时长达4小时，家人对此作息状态十分担忧，双方沟通产生分歧。\n因为一时赌气，这名学生选择离家出走。家人在孩子失联后十分着急，在多日寻人无果的情况下，无奈联系学生集体社群，希望同学们帮忙留意、协助寻人，老师也同步帮忙叮嘱大家多留意异常情况。\n很多人原本以为是发生了严重的家庭矛盾、压力问题或者意外情况，结果家长无奈说明出走原因：仅仅是因为日常手机使用时长管控的小事，孩子一时赌气选择出走。\n整件事最有喜剧效果的点在于：外人脑补各种沉重、严重的家庭矛盾，真相却是极其接地气、让人哭笑不得的青春期小别扭"
+        },
+        {
+          "type": "divider"
+        }
+      ],
+      "author": "站长扬哥",
+      "authorName": "站长扬哥",
+      "authorAvatar": "data:image/jpeg;base64,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",
+      "createdAt": 1789285284822,
+      "status": "pending",
+      "comments": []
     }
   ]
 }
