@@ -1,0 +1,109 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "username": "yangge",
+      "password": "",
+      "nickname": "杨哥",
+      "avatar": "preset:0",
+      "school": "福州一中",
+      "grade": "高三",
+      "bio": "Donda 的维护者。\n喜欢在深夜写代码和听歌。",
+      "following": [],
+      "followers": [
+        "u2",
+        "u3"
+      ],
+      "createdAt": 1785682351890
+    },
+    {
+      "id": "u2",
+      "username": "linjie",
+      "password": "",
+      "nickname": "林杰",
+      "avatar": "preset:1",
+      "school": "福州三中",
+      "grade": "高二",
+      "bio": "会弹吉他，会写诗。",
+      "following": [
+        "u1"
+      ],
+      "followers": [
+        "u1"
+      ],
+      "createdAt": 1788274351890
+    },
+    {
+      "id": "u3",
+      "username": "xiaoyu",
+      "password": "",
+      "nickname": "小雨",
+      "avatar": "preset:6",
+      "school": "福建师大附中",
+      "grade": "高一",
+      "bio": "刚上高中，请多指教。",
+      "following": [
+        "u1",
+        "u2"
+      ],
+      "followers": [
+        "u1"
+      ],
+      "createdAt": 1789570351890
+    }
+  ],
+  "posts": [
+    {
+      "id": "p1",
+      "userId": "u2",
+      "images": [],
+      "text": "今天的晚霞特别好看，随手拍了一张。\n福州的秋天真的来了。",
+      "createdAt": 1790855551890,
+      "likes": [
+        "u1",
+        "u3"
+      ],
+      "comments": [
+        {
+          "id": "c1",
+          "userId": "u1",
+          "text": "确实好看！",
+          "createdAt": 1790859151890,
+          "parentId": null,
+          "images": []
+        },
+        {
+          "id": "c2",
+          "userId": "u3",
+          "text": "哪拍的？",
+          "createdAt": 1790862751890,
+          "parentId": null,
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "userId": "u3",
+      "images": [],
+      "text": "第一次来 Donda，感觉这里的氛围很好。\n希望能认识更多福州的朋友～",
+      "createdAt": 1790779951890,
+      "likes": [
+        "u1"
+      ],
+      "comments": []
+    },
+    {
+      "id": "p3",
+      "userId": "u1",
+      "images": [],
+      "text": "Donda 上线第一天，欢迎福州的高中生们都来玩。\n可以发帖、评论、关注别人。",
+      "createdAt": 1790693551890,
+      "likes": [
+        "u2",
+        "u3"
+      ],
+      "comments": []
+    }
+  ]
+}
